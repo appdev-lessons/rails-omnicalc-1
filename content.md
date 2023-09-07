@@ -10,7 +10,7 @@ LTI{Load Rails Omnicalc-1 assignment}(https://grades.firstdraft.com/launch)[S9ym
 
 Then, fork the repository and create your Codespace. Start your live app preview with `bin/dev` once the Codespace is setup.
 
-You can use the code from Rails RPS, Rails Dice Roll, and Sinatra Omnicalc-1 to match the target. You should keep the [RCAV Flowchart lesson handy](https://learn.firstdraft.com/lessons/120); it's a good reference for building Rails routes:
+You can use the code from Rails RPS, Rails Dice Roll, and Sinatra Omnicalc-1 to match the target. You should keep the [RCAV Flowchart lesson handy](https://learn.firstdraft.com/lessons/120-rcav-flowchart); it's a good reference for building Rails routes:
 
 1. View [the target app](https://omnicalc-1.matchthetarget.com/) and decide on a resource path to start building.
 2. In your Rails app, start with the `config/routes.rb` file to define the **route**.
